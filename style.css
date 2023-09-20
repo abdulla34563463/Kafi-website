@@ -1,0 +1,35 @@
+body {
+    front-size: 15;
+    
+}
+
+
+
+p{
+front-weight:ligher
+
+}
+
+
+.bottun{
+margin: top 50px; ;
+backgraund-coler:rgb(5, 254, 84);
+border-radius: 5px;
+
+box: sizing 100px;
+}
+
+.bottun{
+margin: top 100px ;
+background-color: blue;
+border-radius: 10px;
+
+}
+
+
+
+
+
+#username.shakib{
+    coler:rgb(255, 0, 0);
+}
